@@ -1,0 +1,67 @@
+After Outlier Removal (removed 88 data points)
+k= 4
+errt: 2.40727    errv: 3.14949
+errt: 2.25664    errv: 4.06436
+errt: 2.25847    errv: 3.95425
+errt: 2.23709    errv: 4.03025
+errt: 2.37088    errv: 3.44149
+k= 8
+errt: 2.89406    errv: 2.89636
+errt: 2.71845    errv: 3.78815
+errt: 2.72215    errv: 3.71366
+errt: 2.70964    errv: 3.82039
+errt: 2.86360    errv: 3.09060
+k= 16
+errt: 3.21627    errv: 2.80844
+errt: 3.01147    errv: 3.70039
+errt: 3.03815    errv: 3.63002
+errt: 3.00960    errv: 3.75937
+errt: 3.18274    errv: 3.00216
+k= 32
+errt: 3.42544    errv: 2.78846
+errt: 3.20420    errv: 3.71197
+errt: 3.23202    errv: 3.60514
+errt: 3.20203    errv: 3.75229
+errt: 3.38317    errv: 2.98638
+k= 64
+errt: 3.53631    errv: 2.78781
+errt: 3.31068    errv: 3.70708
+errt: 3.33923    errv: 3.59927
+errt: 3.30172    errv: 3.75392
+errt: 3.49216    errv: 2.96445
+k= 128			avg_errv: 3.3634
+errt: 3.59269    errv: 2.79076
+errt: 3.36271    errv: 3.71920
+errt: 3.39464    errv: 3.59852
+errt: 3.35134    errv: 3.75948
+errt: 3.55171    errv: 2.94911
+k= 256
+errt: 3.62265    errv: 2.79626
+errt: 3.39289    errv: 3.72036
+errt: 3.42344    errv: 3.60032
+errt: 3.37903    errv: 3.76581
+errt: 3.58440    errv: 2.94652
+k= 512
+errt: 3.64042    errv: 2.80079
+errt: 3.41135    errv: 3.72179
+errt: 3.44172    errv: 3.60397
+errt: 3.39896    errv: 3.76771
+errt: 3.60367    errv: 2.94517
+k= 1024
+errt: 3.65225    errv: 2.80652
+errt: 3.42329    errv: 3.72519
+errt: 3.45277    errv: 3.61035
+errt: 3.41218    errv: 3.76969
+errt: 3.61751    errv: 2.94744
+k= 2048
+errt: 3.66112    errv: 2.81023
+errt: 3.43127    errv: 3.73122
+errt: 3.46010    errv: 3.61577
+errt: 3.42025    errv: 3.77582
+errt: 3.62559    errv: 2.95024
+k= 4096
+errt: 3.67009    errv: 2.81702
+errt: 3.44022    errv: 3.74236
+errt: 3.46909    errv: 3.62499
+errt: 3.42858    errv: 3.78801
+errt: 3.63457    errv: 2.95593

@@ -1,4 +1,5 @@
 mltools
 data
 CS273P-S2018-Project1.pdf
-__pycache__/
+__pycache__
+*.png
