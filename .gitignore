@@ -1,5 +1,6 @@
 mltools
-data
-CS273P-S2018-Project1.pdf
-__pycache__
-*.png
+*/data
+*/CS273P-S2018-Project1.pdf
+*/CS273P-S2018-Project2.pdf
+*/__pycache__
+*/*.png
